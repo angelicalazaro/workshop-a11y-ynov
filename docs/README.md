@@ -1,9 +1,5 @@
 # Atelier Accessibilité INOLIB - Djebrine ALOUI et Angélica LAZARO
 
-Nous avons vu lors des précédents ateliers « **intégration HTML/CSS** » comment utiliser de manière appropriée le HTML sémantique, exploiter sa richesse pour définir du CSS optimisé et rendre une page web responsive.
-
-Ce troisième volet « **accessibilité** » sera lui aussi entièrement consacré au HTML et CSS. 
-
 ## Objectifs
 
 Pour nous aider à concevoir des interfaces web accessibles, nous pouvons nous appuyer sur [le référentiel Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/WAI/standards-guidelines/wcag/fr) (se prononce « wuh-cag », « wi-cag » ou « wéh-cag ») mis en place par le consortium **W3C**.  Ce guide est largement pris en référence dans les réglementations de nombreux pays, dont la France sous le référentiel [RGAA (**R**éférentiel **G**énéral d'**A**mélioration de l'**A**ccessibilité)](https://accessibilite.numerique.gouv.fr/). Le principe est de définir les règles permettant aux personnes en situation de handicap d'avoir accès aux fonctionnalités d'une interface web à égalité avec tous les utilisateurs, que ce soit dans le cas de troubles visuels, moteurs, cognitifs, temporaires ou permanents.
