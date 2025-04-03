@@ -1,1 +1,0 @@
-# workshop-a11y-ynov
