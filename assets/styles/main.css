@@ -62,7 +62,7 @@ img {
 }
 
 a {
-    color: var(--main-color);
+    color: var(--main-color-inverse);
     font-weight: 600;
     text-decoration: none;
     &:hover {
