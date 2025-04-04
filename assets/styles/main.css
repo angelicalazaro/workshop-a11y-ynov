@@ -2,8 +2,11 @@
     box-sizing: border-box;
 }
 
-*:focus {
-    outline: none;
+*:focus-visible{
+    outline-style: dashed;
+    outline-color: var(--outline-color);
+    outline-width: 3px;
+    outline-offset: 4px;
 }
 
 .sr-only,
